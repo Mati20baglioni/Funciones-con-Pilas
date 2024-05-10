@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1710949484 source:c:\users\matia\onedrive\escritorio\guias\funciones con pilas\pila.c
+	"pila.h"
+
+1710949484 c:\users\matia\onedrive\escritorio\guias\funciones con pilas\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1713473488 source:c:\users\matia\onedrive\escritorio\guias\funciones con pilas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1711760532 source:c:\users\cami\desktop\guias\funciones con pilas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1710960284 c:\users\cami\desktop\guias\funciones con pilas\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1710960284 source:c:\users\cami\desktop\guias\funciones con pilas\pila.c
+	"pila.h"
+
+1710949484 source:c:\users\matia\onedrive\escritorio\guias\guias de la cursada\funciones con pilas\pila.c
+	"pila.h"
+
+1710949484 c:\users\matia\onedrive\escritorio\guias\guias de la cursada\funciones con pilas\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1715289013 source:c:\users\matia\onedrive\escritorio\guias\guias de la cursada\funciones con pilas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
